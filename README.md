@@ -1,4 +1,4 @@
-Iotech Arduino Library for
+IoThings Arduino Library for
 Texas Instruments TMP007 Breakout
 ==============================================================
 

@@ -5,7 +5,7 @@
 
   These sensors use I2C, 2 pins are required to interface.
 
-  Written by Adrien Chapelet for Iotech
+  Written by Adrien Chapelet for IoThings
  ***************************************************************************/
 
 #if (ARDUINO >= 100)
